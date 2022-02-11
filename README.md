@@ -1,4 +1,4 @@
-# DevSquad Porject: Azure Event Grid Viewer
+# DevSquad Project: Azure Event Grid Viewer
 
 This repository contains the source code for a web app that displays events from Azure Event Grid in near-real time. It is built on ASP.NET Core 3.1 and leverages SignalR to display incoming messages.
 
