@@ -7,7 +7,7 @@
         },
         "repoURL": {
             "value": "https://github.com/oaviles/azure-event-grid-viewer.git"
-        }
+        },
         "hostingPlanName": {
              "value": "oawebappviewer01"
         }
