@@ -1,5 +1,5 @@
 on: workflow_dispatch
-name: Deploy App Service (ARM)
+name: Deploy App Service and WebApp (ARM)
 jobs:
   arm-template-deploy:
     runs-on: ubuntu-latest
